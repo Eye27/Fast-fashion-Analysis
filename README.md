@@ -21,7 +21,9 @@ Fast fashion makes trendy clothing accessible, but at a significant environmenta
 - **Jupyter Notebook** (for interactive analysis)  
 
 ## 📂 **Dataset**  
-The dataset includes product pricing, material composition, and sustainability labels from various fashion brands.  
+The dataset includes product pricing, material composition, and sustainability labels from various fashion brands.
+[[fastFashionCompDim](https://github.com/Eye27/Fast-fashion-Analysis/blob/24361e340ab5335a9f1f5a3458537b9abe534963/fastFashionCompDim.csv)]
+[[Fast Fashion item](https://github.com/Eye27/Fast-fashion-Analysis/blob/24361e340ab5335a9f1f5a3458537b9abe534963/fastFasionItemsDim.csv) ]
 
 ## 🎯 **Conclusion**  
 Fast fashion's environmental toll is undeniable. Our data-driven insights emphasize the need for better consumer awareness and industry transparency. Ethical choices and strict regulations can push the industry towards a greener future.  
