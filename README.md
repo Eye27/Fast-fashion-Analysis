@@ -26,7 +26,7 @@ The dataset includes product pricing, material composition, and sustainability l
 ## 🎯 **Conclusion**  
 Fast fashion's environmental toll is undeniable. Our data-driven insights emphasize the need for better consumer awareness and industry transparency. Ethical choices and strict regulations can push the industry towards a greener future.  
 
-🔍 **Explore the Full Project:** [Project_Analyzing_the_Environmental_Impact_of_Fast_Fashion.ipynb]  
+🔍 **Explore the Full Project:** [[Project_Analyzing_the_Environmental_Impact_of_Fast_Fashion.ipynb](https://github.com/Eye27/Fast-fashion-Analysis/blob/54ea09d6441719e97e5eba680f9e1d874d585951/Project_Analyzing_the_Environmental_Impact_of_Fast_Fashion.ipynb)]  
 
 📢 **Let’s Discuss:** What’s your take on sustainability in fashion? Drop your thoughts in the comments!  
 
